@@ -1,6 +1,16 @@
 # Counter or something!
 this is a basic counter made with js<br>
-styling by bootstrap[^1]<br>
+styling by bootstrap[^bootstrap]<br>
 thanks for viewing
+# Special thanks
+bootstrap[^bootstrap] for prodviding style<br>
+brendan eich[^js] for inventing javascript<br>
+mark otto and jacob thornton for inventing bootstrap<br>
+tim berners-lee for inventing html[^html]<br>
+thats all
 
-[^1]: [bootstrap](https://getbootstrap.com/)
+[^bootstrap]: [bootstrap](https://getbootstrap.com/)
+
+[^js]: [brendan eich](https://en.wikipedia.org/wiki/Brendan_Eich)
+
+[^html]: [tim berners-lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
