@@ -3,7 +3,7 @@ this is a basic counter made with js<br>
 styling by bootstrap[^bootstrap]<br>
 thanks for viewing
 # Special thanks
-bootstrap[^bootstrap] for prodviding style<br>
+bootstrap[^bootstrap] for providing style<br>
 brendan eich[^js] for inventing javascript<br>
 mark otto and jacob thornton for inventing bootstrap<br>
 tim berners-lee for inventing html[^html]<br>
