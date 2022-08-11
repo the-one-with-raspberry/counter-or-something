@@ -5,7 +5,7 @@ thanks for viewing
 # Special thanks
 bootstrap[^bootstrap] for providing style<br>
 brendan eich[^js] for inventing javascript<br>
-mark otto and jacob thornton for inventing bootstrap<br>
+mark otto and jacob thornton for inventing bootstrap[^bootstrap]<br>
 tim berners-lee for inventing html[^html]<br>
 thats all
 
